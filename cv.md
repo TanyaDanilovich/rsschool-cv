@@ -1,6 +1,6 @@
 # Tatsiana Danilovich
 ------------
-![myPhoto](/img/myPhoto.jpg)
+![myPhoto](/portrait/myPortrait.jpg)
 ### _My Contact Info:_
 
 **Location:**   Minsk, Belarus  
