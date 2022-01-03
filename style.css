@@ -42,12 +42,11 @@ a {
 	text-decoration: none;
 }
 .nav__a {
-	text-decoration: none;
 	color: #e1e2e1;
 	transition: 0.5s;
 	line-height: 10px;
 }
-.nav__a:hover{
+a:hover{
 	color: #2f4858;
 }
 .portrait {
