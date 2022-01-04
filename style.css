@@ -110,23 +110,24 @@ h1 {
 	letter-spacing: 10px;
 	font-weight: 700;
 }
-h2 {
+h3 {
 	color: #7b738a;
 	text-align: right;
 	padding-right: 250px;
 	position: relative;
 	letter-spacing: 5px;
+	font-size: 30px;
 }
-.h2__box {
+.h3__box {
 	overflow: hidden;
 }
-.h2__box::before {
+.h3__box::before {
 	display: block;
-	width: 30%;
+	width: 23%;
 	content: "";
 	position: absolute;
 	border-top: 5px solid #7b738a;
-	top: 21%;
+	top: 20%;
 }
 .name__span {
 	font-size: 70px;
@@ -150,7 +151,7 @@ h2 {
 	color: #7b738a;
 }
 
-.h3__box::before {
+.h2__box::before {
 	display: block;
 	width: 67%;
 	content: "";
